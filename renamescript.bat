@@ -1,0 +1,2 @@
+renamescript.py
+pause
